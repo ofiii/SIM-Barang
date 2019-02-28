@@ -1,4 +1,4 @@
-# brg
+Aplikasi SIM Barang
 Langkah-langkah penggunaan project:
 1. buka xampp lalu klik start pada Apache dan MySQL
 2. buat database baru yang sesuai dengan nama db yang ada didalam folder tersebut.
