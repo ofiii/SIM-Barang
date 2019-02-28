@@ -1,5 +1,5 @@
-#Aplikasi SIM Barang
-Langkah-langkah penggunaan project:
+
+Langkah-langkah penggunaan project SIM Barang:
 1. buka xampp lalu klik start pada Apache dan MySQL
 2. buat database baru yang sesuai dengan nama db yang ada didalam folder tersebut.
 3. klik database tersebut 
